@@ -14,7 +14,7 @@
 | Yannik | ✝️ | FOTM | ✔️ | ✔️ | 🔒 |
 | Seba | 🧙⚔️ | Evoker / Rogue | ✔️ | ✔️ | 🔒 |
 | Snapz | ✝️ | Priest | ✔️ | ❓ | 🔒 |
-| Smokhe | ➖ | ➖ | ❌ | ❌ | 🔒 |
+| Smokhe | ➖ | ➖ | ➖ | ➖ | ➖ |
 | 6ways | ❓ | ❓ | ❓ | ❓ | 🔒 |
 | Fatalryhmer | ❓ | ❓ | ❓ | ❓ | 🔒 |
 | Mikkel | ⚔️ | Rogue | ✔️ | ❌ | 🔒 |
@@ -22,3 +22,5 @@
 | Skazzler | ✝️ | FOTM Heal | ✔️ | ❓ | 🔒 |
 | Wonned | 🧙 | Mage | ✔️ | ✔️ | 🔒 |
 | Presswings | ⚔️ | DH/Ret/Rogue | ✔️ | ✔️ | 🔒 |
+
+Missing: Warrior, Hunter, Warlock, Druid
