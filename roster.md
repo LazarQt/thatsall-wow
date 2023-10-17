@@ -1,5 +1,5 @@
 | Player | Role | Classes | Heroic | Mythic | Reviews | Origin | Bio |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | Kalim | 🧙 | Shaman | ✔️ | ✔️ | 📈 | 🇷🇸 | Absolute Madman and self-proclaimed best Shaman on any server he's on. |
 | Cucil | ✝️ | Evoker | ✔️ | ✔️ | 🔒 | 🇹🇷 |  vero eos et accusamus et iusto odio dignissimos  |
 | Denyler | ⚔️ | Death Knight | ✔️ | ✔️ | 🔒 |  |  facere possimus, omnis voluptas assumenda est, omnis dolor  |
