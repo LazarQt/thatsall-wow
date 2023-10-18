@@ -1,23 +1,23 @@
 | Player | Role | Classes | Heroic | Mythic | Reviews | Origin | Bio |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Kalim | 🧙 | Shaman | ✔️ | ✔️ | 📈 | 🇷🇸 | Absolute Madman and self-proclaimed best Shaman on any server he's on. |
-| Cucil | ✝️ | Evoker | ✔️ | ✔️ | 🔒 | 🇹🇷 |  vero eos et accusamus et iusto odio dignissimos  |
-| Denyler | ⚔️ | Death Knight | ✔️ | ✔️ | 🔒 |  |  facere possimus, omnis voluptas assumenda est, omnis dolor  |
-| Conny | 🧙 | Evoker | ✔️ | ✔️ | 🔒 |  |  fuga. Et harum quidem rerum facilis , cum soluta nobis est eligendi quod  |
-| Xervus | ✝️ | Priest | ✔️ | ✔️ | 🔒 |  |  est et expedita distinctio. Nam libero tempore |
-| Matt | ⚔️ | Demon Hunter | ✔️ | ❓ | 🔒 |  |  voluptatum deleniti atque corrupti  |
-| Illy | 🛡️ | Monk / Demon Hunter | ✔️ | ✔️ | 🔒 | 🇨🇦 |  occaecati cupiditate non provident, similique  |
-| Acracia | ✝️ | Monk | ✔️ | ❓ | 🔒 |  |  At vero eos  deleniti atque corrupti quos dolores et quas molestias excepturi , similique sunt   |
-| Fanden | 🛡️ | Paladin | ✔️ | ✔️ | 🔒 | 🇸🇪 |  accusamus et iusto odio dignissimos ducimus |
-| Sani | ❓ | ❓ | ✔️ | ✔️ | 🔒 |  |  in culpa qui officia deserunt mollitia |
-| Luthira | ⚔️ | Shaman | ✔️ | ✔️ | 🔒 |  |  et  qui blanditiis praesentium voluptatum |
-| Yannik | ✝️ | FOTM | ✔️ | ✔️ | 🔒 |  |  sint occaecati cupiditate non provident |
-| Seba | 🧙⚔️ | Evoker / Rogue | ✔️ | ✔️ | 🔒 |  |  sint occaecati cupiditate non provident |
-| Snapz | ✝️ | Priest | ✔️ | ❓ | 🔒 |  |  possimus,   necessitatibus saepe eveniet ut et voluptates repudiandae  |
-| 6ways | ❓ | ❓ | ❓ | ❓ | 🔒 |  |  omnis voluptas assumenda est, omnis |
-| Fatalryhmer | ❓ | ❓ | ❓ | ❓ | 🔒 |  |  Temporibus autem quibusdam |
-| Mikkel | ⚔️ | Rogue | ✔️ | ❌ | 🔒 |  |  dolor repellendus.  et aut officiis debitis aut rerum |
-| Shon | ❓ | ❓ | ✔️ | ✔️ | 🔒 |  |   facilis est  nobis est eligendi  impedit quo minus  possimus, omnis volu |
-| Skazzler | ✝️ | FOTM | ✔️ | ❓ | 🔒 |  |  libero tempore, cum |
-| Wonned | 🧙 | Mage | ✔️ | ✔️ | 🔒 |  |  et expedita distinctio. Nam  soluta |
-| Presswings | ⚔️ | Demon Hunter / Paladin / Rogue | ✔️ | ✔️ | 🔒 |  |  id quod maxime placeat facere |
+| Cucil | ✝️ | Evoker | ✔️ | ✔️ | 🔒 | 🇨🇭 | A very cool player, trust me you won't regret it. Bottom Text. |
+| Denyler | ⚔️ | Death Knight | ✔️ | ✔️ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
+| Conny | 🧙 | Evoker | ✔️ | ✔️ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
+| Xervus | ✝️ | Priest | ✔️ | ✔️ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
+| Matt | ⚔️ | Demon Hunter | ✔️ | ❓ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
+| Illy | 🛡️ | Monk / Demon Hunter | ✔️ | ✔️ | 🔒 | 🇨🇦 |  A very cool player, trust me you won't regret it. Bottom Text. |
+| Acracia | ✝️ | Monk | ✔️ | ❓ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
+| Fanden | 🛡️ | Paladin | ✔️ | ✔️ | 🔒 | 🇸🇪 |  A very cool player, trust me you won't regret it. Bottom Text. |
+| Sani | ❓ | ❓ | ✔️ | ✔️ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
+| Luthira | ⚔️ | Shaman | ✔️ | ✔️ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
+| Yannik | ✝️ | FOTM | ✔️ | ✔️ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
+| Seba | 🧙⚔️ | Evoker / Rogue | ✔️ | ✔️ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
+| Snapz | ✝️ | Priest | ✔️ | ❓ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
+| 6ways | ❓ | ❓ | ❓ | ❓ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
+| Fatalryhmer | ❓ | ❓ | ❓ | ❓ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
+| Mikkel | ⚔️ | Rogue | ✔️ | ❌ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
+| Shon | ❓ | ❓ | ✔️ | ✔️ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
+| Skazzler | ✝️ | FOTM | ✔️ | ❓ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
+| Wonned | 🧙 | Mage | ✔️ | ✔️ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
+| Presswings | ⚔️ | Demon Hunter / Paladin / Rogue | ✔️ | ✔️ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |

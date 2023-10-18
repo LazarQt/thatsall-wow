@@ -1,8 +1,6 @@
 # Extended Raid Group Notes and Ground Rules
 
-\<Thats all folks> on Draenor EU is currently recruiting like-minded players for our Patch 10.2 raid roster. Our goal is to clear Heroic within the first few weeks, re-clear for gear and progress through Mythic at which point your character must be on our server. Our long term goal is to create a stable roster, defeat as many bosses on highest difficulty as possible and create an environment where everyone feels at home (M+ enthusiasts welcome). Raids are Monday & Wednesday 19:00-22:00 Server Time.
 
-If you think you are a good fit and want to join us, message ‘hazard’ on Discord. After successful recruitment feel free to look around and make yourself comfortable, there’s always plenty of banter and other shenanigans going on. 
 
 Our core values:
 

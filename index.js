@@ -1,5 +1,47 @@
 console.log("lol");
 
+function startup() {
+  
+    if(localStorage.getItem("mode") == "night") {
+        document.body.classList.add("dark");
+        
+       }
+       showmode();
+}
+
+function showmode() {
+    if(localStorage.getItem("mode") == "night") {
+        document.getElementById("night").style.display = "none";
+        document.getElementById("day").style.display = "block";
+       } else {
+        document.getElementById("night").style.display = "block";
+        document.getElementById("day").style.display = "none";
+       }
+}
+
+function lolmode() {
+    var mode = localStorage.getItem("mode");
+
+    if(mode==null) {
+       localStorage.setItem("mode","night");
+       document.body.classList.add("dark");
+    } else {
+       
+        if(mode=="night") {
+            document.body.classList.remove("dark");
+            localStorage.setItem("mode","day")
+          
+        } else {
+            document.body.classList.add("dark");
+            localStorage.setItem("mode","night")
+        }
+
+       
+    }
+    showmode();
+
+} 
+
 async function logMovies() {
     // const response = await fetch("http://127.0.0.1:5500/roster.md");
 
@@ -74,7 +116,11 @@ async function logMovies() {
                 var n = "";
                 
                 var chars = o.split("|");
-                n += "<b><span style=\"font-size: larger;\">"+chars[7] +"</span> "+chars[1]+"</b>";
+                var p = chars[1];
+                if (p!="Kalim") {
+                    p = "Player";
+                }
+                n += "<b><span style=\"font-size: larger;\">"+chars[7] +"</span> "+p+"</b>";
                 //console.log(chars[1]);
                 //console.log(chars[2]);
                 var classes = chars[3];
