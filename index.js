@@ -1,46 +1,46 @@
 console.log("lol");
 
 function startup() {
-  
-    if(localStorage.getItem("mode") == "night") {
+
+    if (localStorage.getItem("mode") == "night") {
         document.body.classList.add("dark");
-        
-       }
-       showmode();
+
+    }
+    showmode();
 }
 
 function showmode() {
-    if(localStorage.getItem("mode") == "night") {
+    if (localStorage.getItem("mode") == "night") {
         document.getElementById("night").style.display = "none";
         document.getElementById("day").style.display = "block";
-       } else {
+    } else {
         document.getElementById("night").style.display = "block";
         document.getElementById("day").style.display = "none";
-       }
+    }
 }
 
 function lolmode() {
     var mode = localStorage.getItem("mode");
 
-    if(mode==null) {
-       localStorage.setItem("mode","night");
-       document.body.classList.add("dark");
+    if (mode == null) {
+        localStorage.setItem("mode", "night");
+        document.body.classList.add("dark");
     } else {
-       
-        if(mode=="night") {
+
+        if (mode == "night") {
             document.body.classList.remove("dark");
-            localStorage.setItem("mode","day")
-          
+            localStorage.setItem("mode", "day")
+
         } else {
             document.body.classList.add("dark");
-            localStorage.setItem("mode","night")
+            localStorage.setItem("mode", "night")
         }
 
-       
+
     }
     showmode();
 
-} 
+}
 
 async function logMovies() {
     // const response = await fetch("http://127.0.0.1:5500/roster.md");
@@ -86,7 +86,9 @@ async function logMovies() {
             "Icon": "<i class=\"ms ms-ability-decayed ms-2x ms-fw class-outline-thick evoker\" title=\"Evoker\"></i>"
         },
 
-    }
+    };
+    var allClasses = ["Warrior", "Paladin", "Hunter", "Rogue", "Priest", "Shaman", "Mage", "Warlock", "Monk", "Druid", "DemonHunter", "DeathKnight", "Evoker"];
+
     var c = 0;
     //console.log(response.text());
     fetch("http://127.0.0.1:5500/roster.md")
@@ -94,52 +96,66 @@ async function logMovies() {
         .then(result => {
             result = result.replaceAll("| ", "|").replaceAll(" |", "|");
             //console.log(result);
-            
+
             var lines = result.split("\r\n");
             lines.splice(0, 2);
-            lines.sort((a,b) => {
+            lines.sort((a, b) => {
                 if (a < b) {
                     return -1;
-                  }
-                  if (a > b) {
+                }
+                if (a > b) {
                     return 1;
-                  }
-                
-                  // names must be equal
-                  return 0;
+                }
+
+                // names must be equal
+                return 0;
             });
             var tanks = new Array();
             var heals = new Array();
             var dps = new Array();
-        
+
             lines.forEach(o => {
                 var n = "";
-                
+
                 var chars = o.split("|");
                 var p = chars[1];
-                if (p!="Kalim") {
-                    p = "Player";
+                var public = chars[9];
+                var bio = chars[8];
+                var classes = chars[3];
+                if (public != "✔️") {
+                    p = "<span style=\"font-size:smaller\"><i>" + classes + "</i></span>";
+                    bio = "";
                 }
-                n += "<b><span style=\"font-size: larger;\">"+chars[7] +"</span> "+p+"</b>";
+                var flags = chars[7];
+                if(flags.length == 8) {
+                    flags = flags.substr(0,4) + "" + flags.substr(4,4);
+                }
+                n += "<b><span class=\"nono\">" + flags + "</span> " + p + "</b>";
                 //console.log(chars[1]);
                 //console.log(chars[2]);
-                var classes = chars[3];
+
                 var sc = classes.split(" / ");
-                sc.forEach(s=>{
+                sc.forEach(s => {
                     s = s.replaceAll(" ", "");
+
+                    var index = allClasses.indexOf(s);
+                    if (index !== -1) {
+                        allClasses.splice(index, 1);
+                    }
+
                     if (dict.hasOwnProperty(s)) {
                         n += dict[s].Icon;
                     }
                 });
                 n += "<br>";
-              //  console.log();
-                n += "<span class=\"player\">"+chars[8]+"</span>";
+                //  console.log();
+                n += "<span class=\"player\">" + bio + "</span>";
                 var classes = chars[3];
-               // n += "";
+                // n += "";
                 var xd = chars[2];
-                if(xd == "🛡️") {
+                if (xd == "🛡️") {
                     tanks.push(n);
-                } else if (xd=="✝️") {
+                } else if (xd == "✝️") {
                     heals.push(n);
                 } else {
                     dps.push(n);
@@ -148,12 +164,16 @@ async function logMovies() {
                 //console.log(classes);
             });
             var all = tanks.concat(heals).concat(dps);
-            all.forEach(l=> {
+            all.forEach(l => {
                 c++;
-                console.log( "<div class=\"div" + c + "\">"+l+"</div>");
-             
-            });
+                console.log("<div class=\"div" + c + "\">" + l + "</div>");
 
+            });
+            console.log("<br><div>Missing: ");
+            allClasses.forEach(c=>{
+                console.log(c+" ");
+            });
+            console.log("</div>");
 
         });
 }

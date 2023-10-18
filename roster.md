@@ -1,23 +1,24 @@
-| Player | Role | Classes | Heroic | Mythic | Reviews | Origin | Bio |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Kalim | 🧙 | Shaman | ✔️ | ✔️ | 📈 | 🇷🇸 | Absolute Madman and self-proclaimed best Shaman on any server he's on. |
-| Cucil | ✝️ | Evoker | ✔️ | ✔️ | 🔒 | 🇨🇭 | A very cool player, trust me you won't regret it. Bottom Text. |
-| Denyler | ⚔️ | Death Knight | ✔️ | ✔️ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
-| Conny | 🧙 | Evoker | ✔️ | ✔️ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
-| Xervus | ✝️ | Priest | ✔️ | ✔️ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
-| Matt | ⚔️ | Demon Hunter | ✔️ | ❓ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
-| Illy | 🛡️ | Monk / Demon Hunter | ✔️ | ✔️ | 🔒 | 🇨🇦 |  A very cool player, trust me you won't regret it. Bottom Text. |
-| Acracia | ✝️ | Monk | ✔️ | ❓ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
-| Fanden | 🛡️ | Paladin | ✔️ | ✔️ | 🔒 | 🇸🇪 |  A very cool player, trust me you won't regret it. Bottom Text. |
-| Sani | ❓ | ❓ | ✔️ | ✔️ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
-| Luthira | ⚔️ | Shaman | ✔️ | ✔️ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
-| Yannik | ✝️ | FOTM | ✔️ | ✔️ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
-| Seba | 🧙⚔️ | Evoker / Rogue | ✔️ | ✔️ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
-| Snapz | ✝️ | Priest | ✔️ | ❓ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
-| 6ways | ❓ | ❓ | ❓ | ❓ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
-| Fatalryhmer | ❓ | ❓ | ❓ | ❓ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
-| Mikkel | ⚔️ | Rogue | ✔️ | ❌ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
-| Shon | ❓ | ❓ | ✔️ | ✔️ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
-| Skazzler | ✝️ | FOTM | ✔️ | ❓ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
-| Wonned | 🧙 | Mage | ✔️ | ✔️ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
-| Presswings | ⚔️ | Demon Hunter / Paladin / Rogue | ✔️ | ✔️ | 🔒 |  |  A very cool player, trust me you won't regret it. Bottom Text. |
+| Player | Role | Classes | Heroic | Mythic | Reviews | Origin | Bio | Public |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Kalim | 🧙 | Shaman | ✔️ | ✔️ | 📈 | 🇷🇸 | Absolute Madman and self-proclaimed best Shaman on any server he's on. | ✔️ |
+| Cucil | ✝️ | Evoker | ✔️ | ✔️ | 🔒 | 🇨🇭 | Phelsuma grandis | ✔️ |
+| Denyler | ⚔️ | Death Knight | ✔️ | ✔️ | 📈 | 🇧🇪 | Supreme monkey leader | ✔️ |
+| Conny | 🧙 | Evoker | ✔️ | ✔️ | 🔒 |  |   | ❌ |
+| Xervus | ✝️ | Priest | ✔️ | ✔️ | 🔒 | 🇳🇴 | Spiteful prick with access to LoF and the ability to let you die if you irk him (takes PI bribes) | ✔️ |
+| Matt | ⚔️ | Demon Hunter | ✔️ | ❓ | 🔒 |  |   | ❌ |
+| Illy | 🛡️ | Monk / Demon Hunter | ✔️ | ✔️ | 📈 | 🇨🇦🇬🇧 | Looks forward to ✨crying✨ after her reviews | ✔️ |
+| Acracia | ✝️ | Monk | ✔️ | ❓ | 🔒 |  |   | ❌ |
+| Fanden | 🛡️ | Paladin | ✔️ | ✔️ | 🔒 | |  | ✔️ |
+| Sanigawd | ⚔️ | Warrior | ✔️ | ✔️ | 🔒 |  | Absolute gaming warlord, that cant be touched, best to ever do it | ✔️ |
+| Luthira | ⚔️ | Shaman | ✔️ | ✔️ | 🔒 | 🇧🇪🇬🇧 | Enh shaman main, altoholic extraordinaire. Also ginger, so guard your soul carefully! | ✔️ |
+| Yannick | ✝️ | FOTM | ✔️ | ✔️ | 🔒 | 🇩🇪 | german healer | ✔️ |
+| Seba | 🧙⚔️ | Evoker / Rogue | ✔️ | ✔️ | 🔒 |  |   | ❌ |
+| Snapz | ✝️ | Priest | ✔️ | ❓ | 🔒 |  |   | ❌ |
+| 6ways | ❓ | ❓ | ❓ | ❓ | 🔒 |  |   | ❌ |
+| Fatalryhmer | ❓ | ❓ | ❓ | ❓ | 🔒 |  |   | ❌ |
+| Mikkel | ⚔️ | Rogue | ✔️ | ❌ | 🔒 |  |   | ✔️ |
+| Shon | ❓ | ❓ | ✔️ | ✔️ | 🔒 |  |   | ❌ |
+| Skazzie | ✝️ | FOTM | ✔️ | ❓ | 📈 | 🇳🇴 |  | ✔️ |
+| Wonned | 🧙 | Mage | ✔️ | ✔️ | 🔒 |  |   | ❌ |
+| Presswings | ⚔️ | Demon Hunter / Paladin / Rogue | ✔️ | ✔️ | 🔒 |  |   | ❌ |
+| Luthira | ⚔️ | ❓ | ✔️ | ✔️ | 🔒 |  |   | ❌ |

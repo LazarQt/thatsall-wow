@@ -14,10 +14,11 @@
 
 
 .content {
-    max-width: 960px;
+    max-width: 1200px;
     margin: auto;
+    padding: 2rem;
     text-align: center;
-    margin-top: -150px;
+    margin-top: -225px;
 }
 
 
@@ -171,51 +172,11 @@ h1 {
     -webkit-text-stroke-color: black;
     margin: 0;
 }
-
-h3 {
-
-    font-family: 'Qwigley', cursive;
-    font-size: 2rem;
-    margin: 0;
-}
-
-.tafont {
-    font-family: 'ThatsAllFolks', cursive;
-}
 h4 {
 
     font-family: 'ThatsAllFolks', cursive;
     font-size: 1.75rem;
     margin: 0;
-}
-
-@font-face {
-    font-family: 'ThatsAllFolks';
-    src:
-        url('TAF.ttf') format('truetype');
-}
-
-html {
-  /*  color: #DDDDDD; 
-  background-color: #111111;*/
-  
-   
-}
-
-.dark {
-    background-color: rgb(27,27,27);
-    color:#DDDDDD;
-}
-
-
-body {
-    margin:0;
-    background-color: #DDDDDD;
-}
-
-.os {
-    
-    font-family: 'Open Sans', sans-serif;
 }
 
 .parent {
@@ -224,28 +185,8 @@ body {
     grid-template-rows: repeat(5, 1fr);
     grid-column-gap: 5px;
     grid-row-gap: 25px;
-
     font-family: 'Open Sans', sans-serif;
 }
-
-strong {
-    position: relative;
-  }
-  
-  strong::before {
-    /* Highlight color */
-    
-    background-color: rgba(225, 57, 62,.95);
-    content: "";
-    position: absolute;
-    width: calc(100% + 4px);
-    height: 80%;
-    left: -2px;
-    bottom: 0;
-    z-index: -1;
-    transform: rotate(-2deg);
-  }
-  
 
 .div1 {
     grid-area: 1 / 1 / 2 / 2;
@@ -327,6 +268,19 @@ strong {
     grid-area: 5 / 4 / 6 / 5;
 }
 
+@font-face {
+    font-family: "NoNoTo";
+    src: url("/fonts/NotoColorEmoji.ttf");
+    font-weight: normal;
+    font-style: normal;
+  }
+.nono{
+    font-family: 'NoNoTo';
+}
+.noto {
+    font-family: 'Noto Emoji', sans-serif;
+}
+
 .div21 {
     grid-area: 6 / 1 / 7 / 2;
 }
@@ -342,70 +296,144 @@ strong {
 .div24 {
     grid-area: 6 / 4 / 7 / 5;
 }
+/*
+.testing {
+    border-radius: 10px;
+    border: 3px solid #E1393E;
+    box-shadow: 4px 4px 0px 0px black;
+    
+}*/
 
-.div25 {
-    grid-area: 7 / 1 / 8 / 2;
+@media screen and (max-width: 1080px) {
+    h1 {
+        font-size: 2.5rem;
+    }
+    h4 {
+        font-size: 1.5rem;
+    }
+    .parent {
+       
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(12, 1fr);
+        grid-column-gap: 5px;
+        grid-row-gap: 25px;
+        font-family: 'Open Sans', sans-serif;
+   
+        }
+        
+        .div1 { grid-area: 1 / 1 / 2 / 2; }
+        .div2 { grid-area: 1 / 2 / 2 / 3; }
+        .div3 { grid-area: 2 / 1 / 3 / 2; }
+        .div4 { grid-area: 2 / 2 / 3 / 3; }
+        .div5 { grid-area: 3 / 1 / 4 / 2; }
+        .div6 { grid-area: 3 / 2 / 4 / 3; }
+        .div7 { grid-area: 4 / 1 / 5 / 2; }
+        .div8 { grid-area: 4 / 2 / 5 / 3; }
+        .div9 { grid-area: 5 / 1 / 6 / 2; }
+        .div10 { grid-area: 5 / 2 / 6 / 3; }
+        .div11 { grid-area: 6 / 1 / 7 / 2; }
+        .div12 { grid-area: 6 / 2 / 7 / 3; }
+        .div13 { grid-area: 7 / 1 / 8 / 2; }
+        .div14 { grid-area: 7 / 2 / 8 / 3; }
+        .div15 { grid-area: 8 / 1 / 9 / 2; }
+        .div16 { grid-area: 8 / 2 / 9 / 3; }
+        .div17 { grid-area: 9 / 1 / 10 / 2; }
+        .div18 { grid-area: 9 / 2 / 10 / 3; }
+        .div19 { grid-area: 10 / 1 / 11 / 2; }
+        .div20 { grid-area: 10 / 2 / 11 / 3; }
+        .div21 { grid-area: 11 / 1 / 12 / 2; }
+        .div22 { grid-area: 11 / 2 / 12 / 3; }
+        .div23 { grid-area: 12 / 1 / 13 / 2; }
+        .div24 { grid-area: 12 / 2 / 13 / 3; }
+        
+  }
+
+
+@media screen and (max-width: 400px) {
+    h1 {
+        font-size: 1.25rem;
+        text-shadow: 2px 2px black;
+        -webkit-text-stroke-width: 1px;
+    }
+    h4 {
+        font-size: 1rem;
+    }
+    .content {
+      
+       
+       
+    }
+    
+  }
+
+
+
+h3 {
+
+    font-family: 'Qwigley', cursive;
+    font-size: 2rem;
+    margin: 0;
 }
 
-.div26 {
-    grid-area: 7 / 2 / 8 / 3;
+.tafont {
+    font-family: 'ThatsAllFolks', cursive;
 }
 
-.div27 {
-    grid-area: 7 / 3 / 8 / 4;
+
+@font-face {
+    font-family: 'ThatsAllFolks';
+    src:
+        url('TAF.ttf') format('truetype');
 }
 
-.div28 {
-    grid-area: 7 / 4 / 8 / 5;
+html {
+  /*  color: #DDDDDD; 
+  background-color: #111111;*/
+  
+   
 }
 
-.div29 {
-    grid-area: 8 / 1 / 9 / 2;
+.dark {
+    background-color: rgb(27,27,27);
+    color:#DDDDDD;
 }
 
-.div30 {
-    grid-area: 8 / 2 / 9 / 3;
+
+body {
+    margin:0;
+    background-color: #DDDDDD;
 }
 
-.div31 {
-    grid-area: 8 / 3 / 9 / 4;
+.os {
+    
+    font-family: 'Open Sans', sans-serif;
 }
 
-.div32 {
-    grid-area: 8 / 4 / 9 / 5;
-}
 
-.div33 {
-    grid-area: 9 / 1 / 10 / 2;
-}
+strong {
+    position: relative;
+  }
+  
+  strong::before {
+    /* Highlight color */
+    
+    background-color: rgba(225, 57, 62,.95);
+    content: "";
+    position: absolute;
+    width: calc(100% + 4px);
+    height: 80%;
+    left: -2px;
+    bottom: 0;
+    z-index: -1;
+    transform: rotate(-2deg);
+  }
+  
 
-.div34 {
-    grid-area: 9 / 2 / 10 / 3;
-}
 
-.div35 {
-    grid-area: 9 / 3 / 10 / 4;
-}
 
-.div36 {
-    grid-area: 9 / 4 / 10 / 5;
-}
 
-.div37 {
-    grid-area: 10 / 1 / 11 / 2;
-}
 
-.div38 {
-    grid-area: 10 / 2 / 11 / 3;
-}
-
-.div39 {
-    grid-area: 10 / 3 / 11 / 4;
-}
-
-.div40 {
-    grid-area: 10 / 4 / 11 / 5;
-}
 
 .test1 {
     background-color: rgba(1, 1, 1, 0.2);
