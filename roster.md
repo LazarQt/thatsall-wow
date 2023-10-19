@@ -20,5 +20,5 @@
 | Shon | ❓ | ❓ | ✔️ | ✔️ | 🔒 |  |   | ❌ |
 | Skazzie | ✝️ | FOTM | ✔️ | ❓ | 📈 | 🇳🇴 |  | ✔️ |
 | Wonned | 🧙 | Mage | ✔️ | ✔️ | 🔒 |  |   | ❌ |
-| Presswings | ⚔️ | Demon Hunter / Paladin / Rogue | ✔️ | ✔️ | 🔒 |  |   | ❌ |
+| Presswings | ⚔️ | Demon Hunter | ✔️ | ✔️ | 🔒 |  | the creator of illidan stormrage | ✔️ |
 | Luthira | ⚔️ | ❓ | ✔️ | ✔️ | 🔒 |  |   | ❌ |
