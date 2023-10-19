@@ -18,7 +18,7 @@
 | Fatalryhmer | ❓ | ❓ | ❓ | ❓ | 🔒 |  |   | ❌ | Raider |
 | Mikkel | ⚔️ | Rogue | ✔️ | ❌ | 🔒 |  |   | ✔️ | Raider |
 | Shon | ❓ | ❓ | ✔️ | ✔️ | 🔒 |  |   | ❌ | Raider |
-| Skazzie | ✝️ | FOTM | ✔️ | ❓ | 📈 | 🇳🇴 |  | ✔️ | Raider |
+| Skazzie | ✝️ | FOTM | ✔️ | ✔️ | 📈 | 🇳🇴 |  | ✔️ | Raider |
 | Wonned | 🧙 | Mage | ✔️ | ✔️ | 🔒 |  |   | ❌ | Raider |
 | Presswings | ⚔️ | Demon Hunter | ✔️ | ✔️ | 🔒 |  | the creator of illidan stormrage | ✔️ | Raider |
 | Luthandar | ❓ | ❓ | ✔️ | ✔️ | 🔒 |  |  | ❌ | Trial |
