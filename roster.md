@@ -12,7 +12,7 @@
 | Sanigawd | ⚔️ | Warrior | ✔️ | ✔️ | 🔒 |  | Absolute gaming warlord, that cant be touched, best to ever do it | ✔️ |
 | Luthira | ⚔️ | Shaman | ✔️ | ✔️ | 🔒 | 🇧🇪🇬🇧 | Enh shaman main, altoholic extraordinaire. Also ginger, so guard your soul carefully! | ✔️ |
 | Yannick | ✝️ | FOTM | ✔️ | ✔️ | 🔒 | 🇩🇪 | german healer | ✔️ |
-| Seba | 🧙⚔️ | Evoker / Rogue | ✔️ | ✔️ | 🔒 |  |   | ❌ |
+| Seba | 🧙⚔️ | Evoker / Rogue | ✔️ | ✔️ | 🔒 | 🇲🇳🇫🇮 |   | ✔️ |
 | Snapz | ✝️ | Priest | ✔️ | ❓ | 🔒 |  |   | ❌ |
 | 6ways | ❓ | ❓ | ❓ | ❓ | 🔒 |  |   | ❌ |
 | Fatalryhmer | ❓ | ❓ | ❓ | ❓ | 🔒 |  |   | ❌ |
