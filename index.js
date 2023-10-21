@@ -147,6 +147,9 @@ async function logMovies() {
                         n += dict[s].Icon;
                     }
                 });
+                if (chars[5] != "✔️") {
+                    n += "*";
+                }
                 n += "<br>";
                 //  console.log();
                 n += "<span class=\"player\">" + bio + "</span>";
@@ -173,6 +176,7 @@ async function logMovies() {
             allClasses.forEach(c => {
                 console.log(c + " ");
             });
+            console.log("*HC only");
             console.log("</div>");
 
         });
