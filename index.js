@@ -127,10 +127,10 @@ async function logMovies() {
                     bio = "";
                 }
                 var flags = chars[7];
-                if(flags.length == 8) {
-                    flags = flags.substr(0,4) + "" + flags.substr(4,4);
+                if (flags.length == 8) {
+                    flags = flags.substr(0, 4) + "" + flags.substr(4, 4);
                 }
-                n += "<b><span class=\"nono\">" + flags + "</span> " + p + "</b>";
+                n += "<b><span style=\"letter-spacing:3px;\" class=\"nono\">" + flags + "</span> " + p + "</b>";
                 //console.log(chars[1]);
                 //console.log(chars[2]);
 
@@ -170,8 +170,8 @@ async function logMovies() {
 
             });
             console.log("<br><div>Missing: ");
-            allClasses.forEach(c=>{
-                console.log(c+" ");
+            allClasses.forEach(c => {
+                console.log(c + " ");
             });
             console.log("</div>");
 

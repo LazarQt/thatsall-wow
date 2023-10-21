@@ -6,20 +6,18 @@
 | Conny | 🧙 | Evoker | ✔️ | ✔️ | 🔒 |  |   | ❌ | Raider |
 | Xervus | ✝️ | Priest | ✔️ | ✔️ | 🔒 | 🇳🇴 | Spiteful prick with access to LoF and the ability to let you die if you irk him (takes PI bribes) | ✔️ | Raider |
 | Matt | ⚔️ | Demon Hunter | ✔️ | ❓ | 🔒 |  |   | ❌ | Raider |
-| Illy | 🛡️ | Monk / Demon Hunter | ✔️ | ✔️ | 📈 | 🇨🇦🇬🇧 | Looks forward to ✨crying✨ after her reviews | ✔️ | Raider |
+| Illy | 🛡️ | Demon Hunter | ✔️ | ✔️ | 📈 | 🇨🇦🇬🇧 | Looks forward to ✨crying✨ after her reviews | ✔️ | Raider |
 | Acracia | ✝️ | Monk | ✔️ | ❓ | 🔒 |  |   | ❌ | Raider |
-| Fanden | 🛡️ | Paladin | ✔️ | ✔️ | 🔒 | |  | ✔️ | Raider |
+| Fanden | 🛡️ | Paladin | ✔️ | ✔️ | 🔒 | | "literally the devil"<br>-Xervus | ✔️ | Raider |
 | Sanigawd | ⚔️ | Warrior | ✔️ | ✔️ | 🔒 |  | Absolute gaming warlord, that cant be touched, best to ever do it | ✔️ | Raider |
 | Luthira | ⚔️ | Shaman | ✔️ | ✔️ | 🔒 | 🇧🇪🇬🇧 | Enh shaman main, altoholic extraordinaire. Also ginger, so guard your soul carefully! | ✔️ | Raider |
-| Yannick | ✝️ | FOTM | ✔️ | ✔️ | 🔒 | 🇩🇪 | german healer | ✔️ | Raider |
-| Seba | 🧙⚔️ | Evoker / Rogue | ✔️ | ✔️ | 🔒 | 🇲🇳🇫🇮 |   | ✔️ | Raider |
+| Yannick | ✝️ | FOTM | ✔️ | ✔️ | 🔒 | 🇩🇪 | german healer<br>g2g representative | ✔️ | Raider |
+| Seba | 🧙⚔️ | Evoker / Rogue | ✔️ | ✔️ | 🔒 | 🇲🇳🇫🇮 | rip fartsniffer<br>rip pissjug | ✔️ | Raider |
 | Snapz | ✝️ | Priest | ✔️ | ❓ | 🔒 |  |   | ❌ | Raider |
-| 6ways | ❓ | ❓ | ❓ | ❓ | 🔒 |  |   | ❌ | Raider |
-| Fatalryhmer | ❓ | ❓ | ❓ | ❓ | 🔒 |  |   | ❌ | Raider |
 | Mikkel | ⚔️ | Rogue | ✔️ | ❌ | 🔒 |  |   | ✔️ | Raider |
-| Shon | ❓ | ❓ | ✔️ | ✔️ | 🔒 |  |   | ❌ | Raider |
+| Shon | ⚔️ | Rogue / Monk | ✔️ | ✔️ | 🔒 |  | Absolute gaming warlord, that cant be touched, better than sanigawd | ✔️ | Raider |
 | Skazzie | ✝️ | FOTM | ✔️ | ✔️ | 📈 | 🇳🇴 |  | ✔️ | Raider |
 | Wonned | 🧙 | Mage | ✔️ | ✔️ | 🔒 |  |   | ❌ | Raider |
 | Presswings | ⚔️ | Demon Hunter | ✔️ | ✔️ | 🔒 |  | the creator of illidan stormrage | ✔️ | Raider |
-| Luthandar | ❓ | ❓ | ✔️ | ✔️ | 🔒 |  |  | ❌ | Trial |
+| Luthandar | 🧙 | Hunter | ✔️ | ✔️ | 🔒 |  |  | ❌ | Trial |
 | Pendali | 🧙 | Druid | ✔️ | ✔️ | 🔒 |  |  | ❌ | Trial |
