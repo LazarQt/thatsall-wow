@@ -119,10 +119,14 @@ async function logMovies() {
 
                 var chars = o.split("|");
                 var p = chars[1];
-                var public = chars[9];
+                var public = chars[9] == "✔️";
+                var status = chars[10];
+                if (status == "Former") {
+                    return;
+                }
                 var bio = chars[8];
                 var classes = chars[3];
-                if (public != "✔️") {
+                if (!public) {
                     p = "<span style=\"font-size:smaller\"><i>" + classes + "</i></span>";
                     bio = "";
                 }
@@ -166,7 +170,33 @@ async function logMovies() {
                 //console.log(xd);
                 //console.log(classes);
             });
+            var tc = tanks.length;
+            var hc = heals.length;
+            var dc = dps.length;
+            var hctanks = tanks.filter((t) => t.indexOf("*") >= 0);
+            var hctankstring = ""
+            if (hctanks.length > 0) {
+                hctankstring = ` <span style="font-size:smaller;">+${hctanks.length}*</span>`;
+                tc -= hctanks.length;
+            }
+            var hcheals = heals.filter((t) => t.indexOf("*") >= 0);
+            var hchealstring = ""
+            if (hcheals.length > 0) {
+                hchealstring = ` <span style="font-size:smaller;">+${hcheals.length}*</span>`;
+                hc -= hcheals.length;
+            }
+            var hcdps = dps.filter((t) => t.indexOf("*") >= 0);
+            var hcdpstring = ""
+            if (hcdps.length > 0) {
+                hcdpstring = ` <span style="font-size:smaller;">+${hcdps.length}*</span>`;
+                dc -= hcdps.length;
+            }
+
+            tanks.unshift(`<strong>Tanks ${tc}${hctankstring}</strong>`);
+            heals.unshift(`<strong>Heals ${hc}${hchealstring}</strong>`);
+            dps.unshift(`<strong>DPS ${dc}${hcdpstring}</strong>`);
             var all = tanks.concat(heals).concat(dps);
+            //all.push("<strong>ASDF</strong>");
             all.forEach(l => {
                 c++;
                 console.log("<div class=\"div" + c + "\">" + l + "</div>");
@@ -176,7 +206,7 @@ async function logMovies() {
             allClasses.forEach(c => {
                 console.log(c + " ");
             });
-            console.log("*HC only");
+            console.log("<br>*=HC only");
             console.log("</div>");
 
         });
