@@ -444,19 +444,19 @@ h4 {
     }
 
     .div25 {
-        grid-area: 13 / 1 / 12 / 2;
+        grid-area: 13 / 1 / 14 / 2;
     }
 
     .div26 {
-        grid-area: 13 / 2 / 12 / 3;
+        grid-area: 13 / 2 / 14 / 3;
     }
 
     .div27 {
-        grid-area: 14 / 1 / 13 / 2;
+        grid-area: 14 / 1 / 15 / 2;
     }
 
     .div28 {
-        grid-area: 14 / 2 / 13 / 3;
+        grid-area: 14 / 2 / 15 / 3;
     }
 }
 
