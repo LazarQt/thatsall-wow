@@ -11,7 +11,7 @@
 | Sanigawd | ⚔️ | Warrior | ✔️ | ✔️ | 🔒 |  | Absolute gaming warlord, that cant be touched, best to ever do it | ✔️ | Raider |
 | Luthira | ⚔️ | Shaman | ✔️ | ✔️ | 🔒 | 🇧🇪🇬🇧 | Enh shaman main, altoholic extraordinaire. Also ginger, so guard your soul carefully! | ✔️ | Raider |
 | Seba | 🧙⚔️ | Evoker / Rogue | ✔️ | ✔️ | 🔒 | 🇲🇳🇫🇮 | rip fartsniffer<br>rip pissjug | ✔️ | Raider |
-| Shon | ⚔️ | Rogue / Monk | ✔️ | ✔️ | 🔒 |  | Absolute gaming warlord, that cant be touched, better than sanigawd | ✔️ | Raider |
+| Shon | ⚔️ | Rogue | ✔️ | ✔️ | 🔒 |  | Absolute gaming warlord, that cant be touched, better than sanigawd | ✔️ | Raider |
 | Wonned | 🧙 | Mage | ✔️ | ✔️ | 🔒 |  |   | ❌ | Raider |
 | Presswings | ⚔️ | Demon Hunter | ✔️ | ✔️ | 🔒 |  | the creator of illidan stormrage | ✔️ | Raider |
 | Sixwaystodie | ⚔️ | Warrior | ✔️ | ✔️ | 🔒 |  |   | ❌ | Raider |
