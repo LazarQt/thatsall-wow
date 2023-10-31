@@ -6,7 +6,7 @@
 | Yannick | ✝️ | Monk | ✔️ | ✔️ | 🔒 | 🇩🇪 | german healer<br>g2g representative | ✔️ | Raider |
 | Skazzie | ✝️ | Priest | ✔️ | ✔️ | 📈 | 🇳🇴 |  | ✔️ | Raider |
 | Denyler | ⚔️ | Death Knight | ✔️ | ✔️ | 📈 | 🇧🇪🇲🇦 | Supreme monkey leader | ✔️ | Raider |
-| Conny | 🧙 | Evoker | ✔️ | ✔️ | 🔒 |  |   | ❌ | Raider |
+| Conny | 🧙 | Evoker | ✔️ | ✔️ | 🔒 | 🇩🇪 | not toxic, just german<br>(editor's note: where's the difference?) | ✔️ | Raider |
 | Kalim | 🧙 | Mage | ✔️ | ✔️ | 📈 | 🇷🇸 | Absolute Madman. Also known as Saint Jerry the Goatfucker | ✔️ | Raider |
 | Sanigawd | ⚔️ | Warrior | ✔️ | ✔️ | 🔒 |  | Absolute gaming warlord, that cant be touched, best to ever do it | ✔️ | Raider |
 | Luthira | ⚔️ | Shaman | ✔️ | ✔️ | 🔒 | 🇧🇪🇬🇧 | Enh shaman main, altoholic extraordinaire. Also ginger, so guard your soul carefully! | ✔️ | Raider |
