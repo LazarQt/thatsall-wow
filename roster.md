@@ -4,8 +4,8 @@
 | Illy | 🛡️ | Demon Hunter | ✔️ | ✔️ | 📈 | 🇨🇦🇬🇧 | Looks forward to ✨crying✨ after her reviews | ✔️ | Raider |
 | Xervus | ✝️ | Priest | ✔️ | ✔️ | 🔒 | 🇳🇴 | Spiteful prick with access to LoF and the ability to let you die if you irk him (takes PI bribes) | ✔️ | Raider |
 | Yannick | ✝️ | Monk | ✔️ | ✔️ | 🔒 | 🇩🇪 | german healer<br>g2g representative | ✔️ | Raider |
-| Skazzie | ✝️ | FOTM | ✔️ | ✔️ | 📈 | 🇳🇴 |  | ✔️ | Raider |
-| Denyler | ⚔️ | Death Knight | ✔️ | ✔️ | 📈 | 🇧🇪 | Supreme monkey leader | ✔️ | Raider |
+| Skazzie | ✝️ | Priest | ✔️ | ✔️ | 📈 | 🇳🇴 |  | ✔️ | Raider |
+| Denyler | ⚔️ | Death Knight | ✔️ | ✔️ | 📈 | 🇧🇪🇲🇦 | Supreme monkey leader | ✔️ | Raider |
 | Conny | 🧙 | Evoker | ✔️ | ✔️ | 🔒 |  |   | ❌ | Raider |
 | Kalim | 🧙 | Mage | ✔️ | ✔️ | 📈 | 🇷🇸 | Absolute Madman. Also known as Saint Jerry the Goatfucker | ✔️ | Raider |
 | Sanigawd | ⚔️ | Warrior | ✔️ | ✔️ | 🔒 |  | Absolute gaming warlord, that cant be touched, best to ever do it | ✔️ | Raider |
