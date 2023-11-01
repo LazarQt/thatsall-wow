@@ -94,7 +94,7 @@ async function logMovies() {
     fetch("http://127.0.0.1:5500/roster.md")
         .then(response => response.text())
         .then(result => {
-            result = result.replaceAll("| ", "|").replaceAll(" |", "|");
+            result = result.replaceAll("| ", "|").replaceAll(" |", "|").replaceAll("\t","");
             //console.log(result);
 
             var lines = result.split("\r\n");

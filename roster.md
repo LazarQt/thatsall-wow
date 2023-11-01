@@ -1,26 +1,28 @@
-| Player | Role | Classes | Heroic | Mythic | Reviews | Origin | Bio | Public | Status |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Fanden        | 🛡️ | Paladin | ✔️ | ✔️ | 🔒 | | "literally the devil"<br>-Xervus | ✔️ | Raider |
-| Illy          | 🛡️ | Demon Hunter | ✔️ | ✔️ | 📈 | 🇨🇦🇬🇧 | Looks forward to ✨crying✨ after her reviews | ✔️ | Raider |
-| Xervus        | ✝️ | Priest | ✔️ | ✔️ | 🔒 | 🇳🇴 | Spiteful prick with access to LoF and the ability to let you die if you irk him (takes PI bribes) | ✔️ | Raider |
-| Yannick       | ✝️ | Monk | ✔️ | ✔️ | 🔒 | 🇩🇪 | german healer<br>g2g representative | ✔️ | Raider |
-| Skazzie       | ✝️ | Priest | ✔️ | ✔️ | 📈 | 🇳🇴 |  | ✔️ | Raider |
-| Denyler       | ⚔️ | Death Knight | ✔️ | ✔️ | 📈 | 🇧🇪🇲🇦 | Supreme monkey leader | ✔️ | Raider |
-| Conny         | 🧙 | Evoker | ✔️ | ✔️ | 🔒 | 🇩🇪 | not toxic, just german<br>(editor's note: where's the difference?) | ✔️ | Raider |
-| Kalim | 🧙 | Mage | ✔️ | ✔️ | 📈 | 🇷🇸 | Absolute Madman. Also known as Saint Jerry the Goatfucker | ✔️ | Raider |
-| Sanigawd | ⚔️ | Warrior | ✔️ | ✔️ | 🔒 |  | Absolute gaming warlord, that cant be touched, best to ever do it | ✔️ | Raider |
-| Luthira | ⚔️ | Shaman | ✔️ | ✔️ | 🔒 | 🇧🇪🇬🇧 | Enh shaman main, altoholic extraordinaire. Also ginger, so guard your soul carefully! | ✔️ | Raider |
-| Seba | 🧙⚔️ | Evoker / Rogue | ✔️ | ✔️ | 🔒 | 🇲🇳🇫🇮 | rip fartsniffer<br>rip pissjug | ✔️ | Raider |
-| Shon | ⚔️ | Rogue | ✔️ | ✔️ | 🔒 |  | Absolute gaming warlord, that cant be touched, better than sanigawd | ✔️ | Raider |
-| Wonned | 🧙 | Mage | ✔️ | ✔️ | 🔒 |  |   | ✔️ | Raider |
-| Presswings | ⚔️ | Demon Hunter | ✔️ | ✔️ | 🔒 |  | the creator of illidan stormrage | ✔️ | Raider |
-| Sixwaystodie | ⚔️ | Warrior | ✔️ | ✔️ | 🔒 |  |   | ❌ | Raider |
-| Fatalrhymer | ⚔️ | Paladin | ✔️ | ✔️ | 🔒 |  |   | ❌ | Raider |
-| Luthandar | 🧙 | Hunter | ✔️ | ✔️ | 🔒 |  |  | ❌ | Trial |
-| Pendali | 🧙 | Druid | ✔️ | ✔️ | 🔒 |  |  | ❌ | Trial |
-| Acracia | 🧙 | Warlock | ✔️ | ❓ | 🔒 |  |   | ❌ | Raider |
-| Matt | ⚔️ | Demon Hunter | ✔️ | ❓ | 🔒 |  |   | ❌ | Raider |
-| Snapz | ✝️ | Priest | ✔️ | ❓ | 🔒 |  |   | ❌ | Raider |
-| Nosferak | ✝️ | Paladin | ✔️ | ✔️ | 🔒 |  |   | ❌ | Trial |
-| Mikkel | ⚔️ | Rogue | ✔️ | ❌ | 🔒 |  |   | ✔️ | Raider |
-| Cucil | ✝️ | Evoker | ✔️ | ❌ | 🔒 | 🇨🇭 | Phelsuma grandis | ✔️ | Raider |
+| Nr | Player       | Role        | Class          | Status | Heroic | Mythic | Reviews | Public | Bio                                                                                               | Origin   |
+|----|--------------|-------------|----------------|--------|--------|--------|---------|--------|---------------------------------------------------------------------------------------------------|----------|
+| 1  | Fanden       | Tank        | Paladin        | Raider | ✔️     | ✔️     | ❌       | ✔️     | "literally the devil"<br/>-Xervus                                                                 |         |
+| 2  | Illy         | Tank        | Demon Hunter   | Raider | ✔️     | ✔️     | ✔️       | ✔️     | Looks forward to ✨crying✨ after her reviews                                                    | 🇨🇦🇬🇧      |
+| 3  | Xervus       | Heal        | Priest         | Raider | ✔️     | ✔️     | ❌       | ✔️     | Spiteful prick with access to LoF and the ability to let you die if you irk him (takes PI bribes) | 🇳🇴     |
+| 4  | Yannick      | Heal        | Monk           | Raider | ✔️     | ✔️     | ❌       | ✔️     | german healer<br/>g2g representative                                                              | 🇩🇪     |
+| 5  | Skazzie      | Heal        | Priest         | Raider | ✔️     | ✔️     | ✔️       | ✔️     |                                                                                                   | 🇳🇴     |
+| 6  | Denyler      | Meele       | Death Knight   | Raider | ✔️     | ✔️     | ✔️       | ✔️     | Supreme monkey leader                                                                             | 🇧🇪🇲🇦 |
+| 7  | Cucil        | Heal        | Evoker         | Raider | ✔️     | ✔️     | ❌       | ✔️     | Phelsuma grandis                                                                                  | 🇨🇭        |
+| 8  | Conny        | Ranged      | Evoker         | Raider | ✔️     | ✔️     | ❌       | ✔️     | not toxic, just german<br/>(editor's note: where's the difference?)                               | 🇩🇪     |
+| 9  | Sanigawd     | Meele       | Warrior        | Raider | ✔️     | ✔️     | ❌       | ✔️     | Absolute gaming warlord, that cant be touched, best to ever do it                                 |          |
+| 10 | Luthira      | Meele       | Shaman         | Raider | ✔️     | ✔️     | ❌       | ✔️     | Enh shaman main, altoholic extraordinaire. Also ginger, so guard your soul carefully!             | 🇧🇪🇬🇧 |
+| 11 | Seba         | RangedMeele | Evoker / Rogue | Raider | ✔️     | ✔️     | ❌       | ✔️     | rip fartsniffer<br/>rip pissjug                                                                   | 🇲🇳🇫🇮      |
+| 12 | Shon         | Meele       | Rogue          | Raider | ✔️     | ✔️     | ❌       | ✔️     | Absolute gaming warlord, that cant be touched, better than sanigawd                               |          |
+| 13 | Wonned       | Ranged      | Mage           | Raider | ✔️     | ✔️     | ❌       | ✔️     |                                                                                                   |          |
+| 14 | Presswings   | Meele       | Demon Hunter   | Raider | ✔️     | ✔️     | ❌       | ✔️     | the creator of illidan stormrage                                                                  |          |
+| 15 | Sixwaystodie | Meele       | Warrior        | Raider | ✔️     | ✔️     | ❌       | ❌     |                                                                                                   |          |
+| 16 | Fatalrhymer  | Meele       | Paladin        | Raider | ✔️     | ✔️     | ❌       | ❌     |                                                                                                   |          |
+| 17 | Luthandar    | Ranged      | Hunter         | Trial  | ✔️     | ✔️     | ❌       | ❌     |                                                                                                   |          |
+| 18 | Pendali      | Ranged      | Druid          | Trial  | ✔️     | ✔️     | ❌       | ❌     |                                                                                                   |          |
+| 19 | Tayra        | Meele       |                | Trial  | ✔️     | ✔️     | ❌       | ❌     |                                                                                                   |          |
+| 20 | Finger       | Ranged      | Mage           | Trial  | ✔️     | ✔️     | ❌       | ❌     |                                                                                                   |          |
+| 21 | Kalim        | Ranged      | Mage           | Raider | ✔️     | ✔️     | ✔️       | ✔️     | Absolute Madman. Also known as Saint Jerry the Goatfucker                                         | 🇷🇸        |
+| 0  | Snapz        | Heal        | Priest         | Raider | ✔️     | ❌     | ❌       | ❌     |                                                                                                   |          |
+| 0  | Matt         | Meele       | Demon Hunter   | Raider | ✔️     | ❌     | ❌       | ❌     |                                                                                                   |          |
+| 0  | Acracia      | Ranged      | Warlock        | Raider | ✔️     | ❌     | ❌       | ❌     |                                                                                                   |          |
+| 0  | Mikkel       | Meele       | Rogue          | Raider | ✔️     | ❌     | ❌       | ✔️     |                                                                                                   |          |
+| 0  | Nosferak     | Heal        | Paladin        | Trial  | ✔️     | ❌     | ❌       | ❌     |
