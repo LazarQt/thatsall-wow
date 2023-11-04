@@ -6,14 +6,14 @@
 | 04 | Yannick      | Heal        | Monk           | Raider | ✔️     | ✔️     | ❌     | ✔️  | german healer<br/>g2g representative                                                              | 🇩🇪 |
 | 05 | Skazzie      | Heal        | Priest         | Raider | ✔️     | ✔️     | ✔️     | ✔️  |                                                                                                   | 🇳🇴 |
 | 06 | Cucil        | Heal        | Evoker         | Raider | ✔️     | ✔️     | ❌     | ✔️  | Phelsuma grandis                                                                                  | 🇨🇭 |
-| 07 | Denyler      | Meele       | Death Knight   | Raider | ✔️     | ✔️     | ✔️     | ✔️  | Supreme monkey leader                                                                             | 🇧🇪🇲🇦 |
-| 08 | Sanigawd     | Meele       | Warrior        | Raider | ✔️     | ✔️     | ❌     | ✔️  | Absolute gaming warlord, that cant be touched, best to ever do it                                 | |
-| 09 | Luthira      | Meele       | Shaman         | Raider | ✔️     | ✔️     | ❌     | ✔️  | Enh shaman main, altoholic extraordinaire. Also ginger, so guard your soul carefully!             | 🇧🇪🇬🇧 |
-| 10 | Shon         | Meele       | Rogue          | Raider | ✔️     | ✔️     | ❌     | ✔️  | Absolute gaming warlord, that cant be touched, better than sanigawd                               | |
-| 11 | Presswings   | Meele       | Demon Hunter   | Raider | ✔️     | ✔️     | ❌     | ✔️  | the creator of illidan stormrage                                                                  | |
-| 12 | Sixwaystodie | Meele       | Warrior        | Raider | ✔️     | ✔️     | ❌     | ❌  |                                                                                                   | |
-| 13 | Fatalrhymer  | Meele       | Paladin        | Raider | ✔️     | ✔️     | ❌     | ❌  |                                                                                                   | |
-| 14 | Tayra        | Meele       |                | Trial  | ✔️     | ✔️     | ❌     | ❌  |                                                                                                   | |
+| 07 | Denyler      | Melee       | Death Knight   | Raider | ✔️     | ✔️     | ✔️     | ✔️  | Supreme monkey leader                                                                             | 🇧🇪🇲🇦 |
+| 08 | Sanigawd     | Melee       | Warrior        | Raider | ✔️     | ✔️     | ❌     | ✔️  | Absolute gaming warlord, that cant be touched, best to ever do it                                 | |
+| 09 | Luthira      | Melee       | Shaman         | Raider | ✔️     | ✔️     | ❌     | ✔️  | Enh shaman main, altoholic extraordinaire. Also ginger, so guard your soul carefully!             | 🇧🇪🇬🇧 |
+| 10 | Shon         | Melee       | Rogue          | Raider | ✔️     | ✔️     | ❌     | ✔️  | Absolute gaming warlord, that cant be touched, better than sanigawd                               | |
+| 11 | Presswings   | Melee       | Demon Hunter   | Raider | ✔️     | ✔️     | ❌     | ✔️  | the creator of illidan stormrage                                                                  | |
+| 12 | Sixwaystodie | Melee       | Warrior        | Raider | ✔️     | ✔️     | ❌     | ❌  |                                                                                                   | |
+| 13 | Fatalrhymer  | Melee       | Paladin        | Raider | ✔️     | ✔️     | ❌     | ❌  |                                                                                                   | |
+| 14 | Tayra        | Melee       |                | Trial  | ✔️     | ✔️     | ❌     | ❌  |                                                                                                   | |
 | 15 | Conny        | Ranged      | Evoker         | Raider | ✔️     | ✔️     | ❌     | ✔️  | not toxic, just german<br/>(editor's note: where's the difference?)                               | 🇩🇪 |
 | 16 | Seba         | Ranged      | Evoker         | Raider | ✔️     | ✔️     | ❌     | ✔️  | rip fartsniffer<br/>rip pissjug                                                                   | 🇲🇳🇫🇮 |
 | 17 | Wonned       | Ranged      | Mage           | Raider | ✔️     | ✔️     | ❌     | ✔️  |                                                                                                   | |
@@ -21,8 +21,8 @@
 | 19 | Pendali      | Ranged      | Druid          | Trial  | ✔️     | ✔️     | ❌     | ❌  |                                                                                                   | |
 | 20 | Finger       | Ranged      | Mage           | Trial  | ✔️     | ✔️     | ❌     | ❌  |                                                                                                   | |
 | 21 | Kalim        | Ranged      | Mage           | Raider | ✔️     | ✔️     | ✔️     | ✔️  | Absolute Madman.<br/>Also known as Saint Jerry the Goatfucker                                     | 🇷🇸 |
-| 0  | Snapz        | Heal        | Priest         | Raider | ✔️     | ❌     | ❌     | ❌  |                                                                                                   |  |
-| 0  | Nosferak     | Heal        | Paladin        | Trial  | ✔️     | ❌     | ❌     | ❌  |                                                                                                   |  |
-| 0  | Matt         | Meele       | Demon Hunter   | Raider | ✔️     | ❌     | ❌     | ❌  |                                                                                                   |  |
-| 0  | Mikkel       | Meele       | Rogue          | Raider | ✔️     | ❌     | ❌     | ✔️  |                                                                                                   |  |
-| 0  | Acracia      | Ranged      | Warlock        | Raider | ✔️     | ❌     | ❌     | ❌  |                                                                                                   |  |
+| 00 | Snapz        | Heal        | Priest         | Raider | ✔️     | ❌     | ❌     | ❌  |                                                                                                   |  |
+| 00 | Nosferak     | Heal        | Paladin        | Trial  | ✔️     | ❌     | ❌     | ❌  |                                                                                                   |  |
+| 00 | Matt         | Melee       | Demon Hunter   | Raider | ✔️     | ❌     | ❌     | ❌  |                                                                                                   |  |
+| 00 | Acracia      | Ranged      | Warlock        | Raider | ✔️     | ❌     | ❌     | ❌  |                                                                                                   |  |
+| -1 | Mikkel       | Melee       | Rogue          | Raider | ✔️     | ❌     | ❌     | ✔️  |                                                                                                   |  |
