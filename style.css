@@ -119,6 +119,8 @@ hr {
 
 .player {
     font-size: smaller;
+    max-width: 280px;
+    display: inline flow-root list-item;
 }
 
 .class-outline-thin {
