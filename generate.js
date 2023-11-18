@@ -55,6 +55,11 @@ async function logMovies() {
             //console.log(result);
 
             var lines = result.split("\r\n");
+            var h = lines[0].split("|").splice(1);
+            h.forEach((e, i) => {
+                h[i] = e.trim();
+              });
+        
             lines.splice(0, 2);
 
             var tanks = new Array();
@@ -91,17 +96,17 @@ async function logMovies() {
                 var parts = o.split("|");
 
                 var p = {
-                    nr : Number(parts[0].trim()), 
-                    player : parts[1].trim(),
-                    role : parts[2].trim(),
-                    wowclasses : parts[3].trim(), 
-                    status : parts[4].trim(),
-                    heroic : parts[5].trim() == "✔️",   
-                    mythic : parts[6].trim() == "✔️",  
-                    reviews : parts[7].trim() == "✔️",  
-                    public : parts[8].trim() == "✔️",
-                    bio : parts[9].trim(),
-                    origin : parts[10].trim() 
+                    nr : Number(parts[h.indexOf("Nr")].trim()), 
+                    player : parts[h.indexOf("Player")].trim(),
+                    role : parts[h.indexOf("Role")].trim(),
+                    wowclasses : parts[h.indexOf("Class")].trim(),   
+                    status : parts[h.indexOf("Status")].trim(),
+                    heroic : parts[h.indexOf("Heroic")].trim() == "✔️",   
+                    mythic : parts[h.indexOf("Mythic")].trim() == "✔️",  
+                    reviews : parts[h.indexOf("Reviews")].trim() == "✔️",  
+                    public : parts[h.indexOf("Public")].trim() == "✔️",
+                    bio : parts[h.indexOf("Bio")].trim(),
+                    origin : parts[h.indexOf("Origin")].trim() 
                 }
 
 

@@ -130,10 +130,11 @@
 
       <div style="text-align: center;">Loot Rules</div>
       <ul>
-        <li><b>Tier Pieces</b> | Roll Need for up to 2 until everyone got 2 from raid</li>
-        <li><b>Very Rare Items</b> | Roll Need if BiS for Raid Spec</li>
+        <li><b>Tier Pieces</b> | Roll Need for up to 2 until every player got 2 from raid, Need if upgrade after that (across all raid difficulties)</li>
+        <li><b>Very Rare Items</b> | Roll Need <b>ONLY if BiS for main raid spec</b></li>
         <li><b>BoE's</b> | Will be sold for Guild Bank Gold (offering repairs, pots, food, ...)</li>
-        <li> <b>Everything else</b> | Roll Need if upgrade</li>
+        <li><b>Everything else</b> | Roll Need if upgrade for your main raid spec regardless of endgame content you intend to use it in (Examples: Traditional DPS trinkets on Healers in M+, "Beacon to the Beyond" on any spec, ...). If in wrong loot spec for any reason or specced differently during encounters (asked to by raid lead, better spec for specific encounter, ...) make sure to contact raid lead immediately (in VC or chat) to ensure fair loot distribution as dictated by the rules.
+        Beyond that, we trust your own judgement to decide whether or not a Need roll is necessary taking into account the overall stat increase and duration an item will be used before being replaced.</li>
         </li>
 
 
