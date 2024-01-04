@@ -6,7 +6,7 @@ var hoard = {
     "Doen": ["Idol of the Dreamer", "Echoing Tyrstone", "Revitalizing Voodoo Totem👎"],
     "Idrieth": ["Smoldering Seedling👎"],
     "Felcupofgay": ["Witherbark's Branch", "Coiled Serpent Idol", "Prophetic Stonescales"],
-    "Fingerr": ["Augury of the Primal Flame", "Mirror of Fractured Tomorrows"],
+    "Warmcupofgay": ["Augury of the Primal Flame", "Mirror of Fractured Tomorrows"],
     "Sanigawd": ["Might of the Ocean", "Accelerating Sandglass", "Nightmare Egg Shell"],
     "Illyanna": ["Fyrakk's Tainted Rageheart", "Prophetic Stonescales👎", "Gift of Ursine Vengeance", "Nightmare Egg Shell👎"],
     "Noemis": ["Rezan's Gleaming Eye", "Branch of the Tormented Ancient", "Accelerating Sandglass"],
@@ -158,6 +158,9 @@ async function myf() {
             charspecific.push(slotstring);
         });
         var trinkethoard = hoard[raiderinfo.name];
+        if(!trinkethoard) {
+            trinkethoard = [];
+        }
 
         var raidtrinketcount = 0;
         var totaltrinketCount = trinkethoard.length;
@@ -176,7 +179,20 @@ async function myf() {
         console.log();
 
     }
-    var html = "";
+    var html = `<!DOCTYPE html>
+    <html lang="en" class="">
+    
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Thats all Folks WoW Guild</title>
+    
+    
+    
+    
+    
+    </head>`;
 
 
     total.push("");
@@ -192,7 +208,13 @@ async function myf() {
         html += x + "<br>";
     })
     //console.log(total);
+html += `
 
+</body>
+
+</html>
+
+`;
     fs.writeFile('loot/index.html', html, err => {
         if (err) {
             console.error(err);
