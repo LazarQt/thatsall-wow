@@ -75,13 +75,13 @@
     <br>
     <h5>Roster</h5>
 <br>
-    <div style="justify-content: center;" class="os"><strong>Tanks {TANKS_C}</strong></div>
+    <div style="justify-content: center;" class="os"><strong>{TANKS_C} Tanks</strong></div>
 {TANKS}
 <br><br>
-<div style="justify-content: center;" class="os"><strong>Healers {HEALERS_C}</strong></div>
+<div style="justify-content: center;" class="os"><strong>{HEALERS_C} Healers</strong></div>
 {HEALERS}
 <br><br>
-<div style="justify-content: center;" class="os"><strong>Apes {APES_C}</strong></div>
+<div style="justify-content: center;" class="os"><strong>{APES_C} Apes</strong></div>
 {APES}
 
 

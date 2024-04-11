@@ -100,9 +100,6 @@ async function logMovies() {
                     player : parts[h.indexOf("Player")].trim(),
                     role : parts[h.indexOf("Role")].trim(),
                     wowclasses : parts[h.indexOf("Class")].trim(),   
-                    status : parts[h.indexOf("Status")].trim(),
-                    heroic : parts[h.indexOf("Heroic")].trim() == "✔️",   
-                    mythic : parts[h.indexOf("Mythic")].trim() == "✔️",  
                     reviews : parts[h.indexOf("Reviews")].trim() == "✔️",  
                     public : parts[h.indexOf("Public")].trim() == "✔️",
                     bio : parts[h.indexOf("Bio")].trim(),
@@ -152,14 +149,14 @@ async function logMovies() {
                     
                     mysort(playercontent);
                     result = result.replace("{TANKS}", templateWrapper.replace("{TEMPLATE}", playercontent.tanks().playerhtml().join("")));
-                    result = result.replace("{TANKS_C}", playercontent.tanks().mythicplayers().length + " <span style=\"font-size:smaller\">+"+playercontent.tanks().heroicplayers().length+"</span>");
+                    result = result.replace("{TANKS_C}", playercontent.tanks().heroicplayers().length);
 
                     result = result.replace("{HEALERS}", templateWrapper.replace("{TEMPLATE}", playercontent.healers().playerhtml().join("")));
-                    result = result.replace("{HEALERS_C}", playercontent.healers().mythicplayers().length + " <span style=\"font-size:smaller\">+"+playercontent.healers().heroicplayers().length+"</span>");
+                    result = result.replace("{HEALERS_C}", playercontent.healers().heroicplayers().length);
                     
                     
                     result = result.replace("{APES}", templateWrapper.replace("{TEMPLATE}", playercontent.dps().playerhtml().join("")));
-                    result = result.replace("{APES_C}", playercontent.dps().mythicplayers().length + " <span style=\"font-size:smaller\">+"+playercontent.dps().heroicplayers().length+"</span>");
+                    result = result.replace("{APES_C}", playercontent.dps().heroicplayers().length);
 
                    
 
